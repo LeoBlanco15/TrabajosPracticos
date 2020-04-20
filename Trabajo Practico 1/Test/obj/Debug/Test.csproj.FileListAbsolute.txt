@@ -1,0 +1,9 @@
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\bin\Debug\Test.exe.config
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\bin\Debug\Test.exe
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\bin\Debug\Test.pdb
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\bin\Debug\Calculadora.dll
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\bin\Debug\Calculadora.pdb
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\obj\Debug\Test.exe
+C:\Users\Sophie\source\repos\Trabajo practico 1\Test\obj\Debug\Test.pdb

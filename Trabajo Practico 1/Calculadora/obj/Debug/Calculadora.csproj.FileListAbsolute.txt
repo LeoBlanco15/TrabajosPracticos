@@ -1,0 +1,5 @@
+C:\Users\Sophie\source\repos\Trabajo practico 1\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\Sophie\source\repos\Trabajo practico 1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Sophie\source\repos\Trabajo practico 1\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\Sophie\source\repos\Trabajo practico 1\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\Sophie\source\repos\Trabajo practico 1\Calculadora\obj\Debug\Calculadora.pdb
