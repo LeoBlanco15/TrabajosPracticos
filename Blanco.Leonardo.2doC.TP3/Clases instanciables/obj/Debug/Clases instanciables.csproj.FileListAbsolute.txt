@@ -1,0 +1,12 @@
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\bin\Debug\Clases instanciables.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\bin\Debug\Clases instanciables.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\bin\Debug\Archivos.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\bin\Debug\ClassLibrary1.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\bin\Debug\Exepciones.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\bin\Debug\Archivos.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\obj\Debug\Clases instanciables.csprojAssemblyReference.cache
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\obj\Debug\Clases instanciables.csproj.CopyComplete
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\obj\Debug\Clases instanciables.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Clases instanciables\obj\Debug\Clases instanciables.pdb
