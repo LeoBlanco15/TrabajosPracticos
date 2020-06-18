@@ -17,11 +17,10 @@ namespace EntidadesAbstractas
             Extranjero
         }
 
-        private string apellido;
-        private int dni;
-        private ENacionalidad nacionalidad;
         private string nombre;
-
+        private string apellido;
+        private ENacionalidad nacionalidad;
+        private int dni;
         //--------------------------------------------------------------------------------------------
         #region Propiedades
         /// <summary>
@@ -36,6 +35,20 @@ namespace EntidadesAbstractas
             set
             {
                 this.apellido = ValidarNombreApellido(value);
+            }
+        }
+        /// <summary>
+        /// set de nacionalidad
+        /// </summary>
+        public ENacionalidad Nacionalidad
+        {
+            get
+            {
+                return this.nacionalidad;
+            }
+            set
+            {
+                this.nacionalidad = value;
             }
         }
         /// <summary>
@@ -63,20 +76,7 @@ namespace EntidadesAbstractas
                 }
             }
         }
-        /// <summary>
-        /// set de nacionalidad
-        /// </summary>
-        public ENacionalidad Nacionalidad
-        {
-            get
-            {
-                return this.nacionalidad;
-            }
-            set
-            {
-                this.nacionalidad = value;
-            }
-        }
+        
         /// <summary>
         /// Nombre de la persona con validacion en el set
         /// </summary>

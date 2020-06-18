@@ -89,11 +89,10 @@ namespace Instanciables
         public static bool Guardar(Jornada jornada)
         {
             Texto aux = new Texto();
-            //al llamar al metodo guardar de Texto ya escribe en el texto
-            //PD: ninguno de los paths en mi pc tienen permiso
+            //Al llamar a este metodo se guardara en C:\...\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug
             try
             {
-                return aux.Guardar(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), jornada.ToString());
+                return aux.Guardar(AppDomain.CurrentDomain.BaseDirectory + "Prueba.txt", jornada.ToString());
             }
             catch (ArchivosException e)
             {
@@ -105,15 +104,14 @@ namespace Instanciables
         /// Metodo que lee de un archivo de texto
         /// </summary>
         /// <returns></returns>
-        public string Leer()
+        public static string Leer()
         {
             Texto aux = new Texto();
             string ret = "";
-            //al llamar al metodo leer de Texto ya lee en el texto
-            //PD: ninguno de los paths en mi pc tienen permiso
+            //Al llamar a este metodo se leera en C:\...\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Prueba.txt
             try
             {
-                aux.Leer(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), out ret);
+                aux.Leer(AppDomain.CurrentDomain.BaseDirectory + "Prueba.txt", out ret);
                 return ret;
             }
             catch (ArchivosException e)

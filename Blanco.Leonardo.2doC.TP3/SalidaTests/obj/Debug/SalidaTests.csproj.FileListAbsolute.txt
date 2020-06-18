@@ -1,0 +1,15 @@
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\SalidaTests.exe.config
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\SalidaTests.exe
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\SalidaTests.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\Archivos.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\Clases instanciables.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\ClassLibrary1.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\Exepciones.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\Archivos.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\Clases instanciables.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\obj\Debug\SalidaTests.csprojAssemblyReference.cache
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\obj\Debug\SalidaTests.csproj.CopyComplete
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\obj\Debug\SalidaTests.exe
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaTests\obj\Debug\SalidaTests.pdb

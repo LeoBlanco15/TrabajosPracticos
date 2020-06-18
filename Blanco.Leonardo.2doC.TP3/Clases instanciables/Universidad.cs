@@ -277,14 +277,17 @@ namespace Instanciables
             Universidad universidad = this;
             Xml<Universidad> aux = new Xml<Universidad>();
 
-            ////PD: ninguno de los paths en mi pc tienen permiso
-            if (aux.Leer(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), out universidad))
+            //Al llamar a este metodo se guardara en C:\...\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug
+
+            try
             {
+                aux.Leer(AppDomain.CurrentDomain.BaseDirectory + "PruebaXml.xml", out universidad);
                 return universidad;
             }
-            else
+            catch (ArchivosException e)
             {
-                return universidad;
+
+                throw e;
             }
         }
         /// <summary>
@@ -295,9 +298,8 @@ namespace Instanciables
         public static bool Guardar(Universidad uni)
         {
             Xml<Universidad> aux = new Xml<Universidad>();
-
-            ////PD: ninguno de los paths en mi pc tienen permiso
-            if (aux.Guardar(Environment.GetFolderPath(Environment.SpecialFolder.Desktop), uni))
+            //Al llamar a este metodo se guardara en C:\...\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\PruebaXml.xml
+            if (aux.Guardar(AppDomain.CurrentDomain.BaseDirectory +"PruebaXml.xml", uni))
             {
                 return true;
             }

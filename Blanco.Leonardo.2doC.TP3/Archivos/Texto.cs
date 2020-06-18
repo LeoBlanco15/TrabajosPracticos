@@ -18,13 +18,13 @@ namespace Archivos
         /// <returns></returns>
         public bool Guardar(string archivo, string datos)
         {
+            using (StreamWriter writer = new StreamWriter(archivo))
+            {
+                writer.Write(datos);
+            }
             if (File.Exists(archivo))
             {
-                using (StreamWriter writer = new StreamWriter(archivo))
-                {
-                    writer.Write(datos);
-                    return true;
-                }
+                return true;
             }
             else
             {
@@ -33,13 +33,13 @@ namespace Archivos
         }
         public bool Leer(string archivo, out string datos)
         {
+            using (StreamReader reader = new StreamReader(archivo))
+            {
+                datos = reader.ReadToEnd();
+            }
             if (File.Exists(archivo))
             {
-                using (StreamReader reader = new StreamReader(archivo))
-                {
-                    datos = reader.ReadToEnd();
-                    return true;
-                }
+                return true;
             }
             else
             {

@@ -10,15 +10,14 @@ namespace Archivos
     {
         public bool Guardar(string archivo, T datos)
         {
+            
+            using (XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.UTF8))
+            {
+                XmlSerializer ser = new XmlSerializer(typeof(T));
+                ser.Serialize(writer, datos);
+            }
             if (File.Exists(archivo))
             {
-
-                using (XmlTextWriter writer = new XmlTextWriter(archivo, Encoding.UTF8))
-                {
-                    XmlSerializer ser = new XmlSerializer(typeof(T));
-                    ser.Serialize(writer, datos);
-                }
-
                 return true;
             }
             else
@@ -28,14 +27,14 @@ namespace Archivos
         }
         public bool Leer(string archivo, out T datos)
         {
+            using (XmlTextReader reader = new XmlTextReader(archivo))
+            {
+                XmlSerializer ser = new XmlSerializer(typeof(T));
+                datos = (T)ser.Deserialize(reader);
+            }
             if (File.Exists(archivo))
             {
-                using (XmlTextReader reader = new XmlTextReader(archivo))
-                {
-                    XmlSerializer ser = new XmlSerializer(typeof(T));
-                    datos = (T)ser.Deserialize(reader);
-                    return true;
-                }
+                return true;
             }
             else
             {

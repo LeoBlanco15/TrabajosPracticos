@@ -1,0 +1,12 @@
+JORNADA: 
+Clase de Programacion
+Profesor:   
+DNI: 1 
+Nacionalidad: Argentino
+Legajo: 1
+CLASES DEL DIA
+Programacion
+Legislacion
+
+ALUMNOS: 
+-------------------------------------------------------------

@@ -54,40 +54,5 @@ namespace Test_unitario
             uni += alumno;
             uni += alumno2;
         }
-        [TestMethod]
-        [ExpectedException(typeof(ArchivosException))]
-        public void Test_LeerTexto()
-        {
-            Jornada jornada = new Jornada(Universidad.EClases.Programacion, new Profesor());
-
-            jornada.Leer();
-        }
-        [TestMethod]
-        [ExpectedException(typeof(ArchivosException))]
-        public void Test_GuardarTexto()
-        {
-            Jornada jornada = new Jornada(Universidad.EClases.Programacion, new Profesor());
-
-            Jornada.Guardar(jornada);
-        }
-        [TestMethod]
-        [ExpectedException(typeof(ArchivosException))]
-        public void Test_LeerXml()
-        {
-            Universidad uni = new Universidad();
-            uni.Leer();
-        }
-        [TestMethod]
-        [ExpectedException(typeof(ArchivosException))]
-        public void Test_GuardarXml()
-        {
-            Universidad uni = new Universidad();
-            Alumno alumno = new Alumno(1, "Pepe", "Peposo", "1234567", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
-            Alumno alumno2 = new Alumno(2, "Jose", "Stronghold", "12345678", Persona.ENacionalidad.Argentino, Universidad.EClases.Laboratorio);
-            uni += alumno;
-            uni += alumno2;
-
-            Universidad.Guardar(uni);
-        }
     }
 }

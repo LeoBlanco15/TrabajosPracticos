@@ -9,6 +9,14 @@ namespace EntidadesAbstractas
     public abstract class Universitario : Persona
     {
         private int legajo;
+        public int Legajo
+        {
+            get
+            {
+                return this.legajo;
+            }
+            set { }
+        }
         //--------------------------------------------------------------------------------------------
         #region constructores
         /// <summary>
