@@ -22,6 +22,9 @@ namespace Entidades
         private EEstado estado;
         private string trackingID;
 
+        /// <summary>
+        /// Direccion de entrega del paquete
+        /// </summary>
         public string DireccionEntrega 
         {
             get
@@ -33,6 +36,10 @@ namespace Entidades
                 this.direccionEntrega = value;
             }
         }
+        /// <summary>
+        /// Estado en el que se encuentra el paquete
+        /// (Se modifica unicamente en MockCicloDeVida())
+        /// </summary>
         public EEstado Estado
         {
             get
@@ -44,6 +51,9 @@ namespace Entidades
                 this.estado = value;
             }
         }
+        /// <summary>
+        /// Tracking ID del pedido
+        /// </summary>
         public string TrackingID
         {
             get
@@ -56,7 +66,7 @@ namespace Entidades
             }
         }
         /// <summary>
-        /// Unico constructor de la clase
+        /// Unico constructor de la clase, ingresa el estado como ingresado
         /// </summary>
         /// <param name="direccionEntrega"></param>
         /// <param name="trackingID"></param>
@@ -86,7 +96,6 @@ namespace Entidades
                         PaqueteDAO.Insertar(this);
                         break;
                 }
-                
             }
             this.InformaEstado.Invoke(this, EventArgs.Empty);
         }
@@ -119,14 +128,18 @@ namespace Entidades
         {
             return !(a == b);
         }
-
+        /// <summary>
+        /// forma de mostrar el paquete en el ListBox
+        /// </summary>
+        /// <returns></returns>
         public override string ToString()
         {
-            StringBuilder sb = new StringBuilder();
+            //StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Tracking ID: {0} \nDireccion de entrega: {1} \nEstado del pedido: {2}", this.TrackingID, this.DireccionEntrega, this.Estado);
+            //sb.AppendFormat("Tracking ID: {0} \nDireccion de entrega: {1} \nEstado del pedido: {2}", this.TrackingID, this.DireccionEntrega, this.Estado);
 
-            return sb.ToString();
+            //return sb.ToString();
+            return this.MostrarDatos((IMostrar<Paquete>)this);
         }
     }
 }

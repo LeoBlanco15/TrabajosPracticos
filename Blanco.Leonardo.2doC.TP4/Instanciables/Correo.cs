@@ -9,9 +9,15 @@ namespace Entidades
 {
     public class Correo : IMostrar<List<Paquete>>
     {
+        /// <summary>
+        /// lista de threads en los que el paquete cambiara de estado
+        /// </summary>
         private List<Thread> mockPaquetes;
         private List<Paquete> paquetes;
 
+        /// <summary>
+        /// Lista de paquetes del correo
+        /// </summary>
         public List<Paquete> Paquetes
         {
             get

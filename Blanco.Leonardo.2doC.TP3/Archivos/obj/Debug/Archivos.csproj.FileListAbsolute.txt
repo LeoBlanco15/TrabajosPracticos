@@ -6,3 +6,11 @@ C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Archivos\obj\Debug\Archivo
 C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
 C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Archivos\obj\Debug\Archivos.dll
 C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Archivos\bin\Debug\Exepciones.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Archivos\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Archivos\obj\Debug\Archivos.pdb

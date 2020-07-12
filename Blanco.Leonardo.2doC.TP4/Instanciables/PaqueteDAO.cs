@@ -9,6 +9,8 @@ namespace Entidades
 {
     public static class PaqueteDAO
     {
+        public delegate void DelegadoDatos(string mensaje);
+        public static event DelegadoDatos EventoDatos;
         private static SqlCommand comando;
         private static SqlConnection conexion;
 
@@ -28,23 +30,38 @@ namespace Entidades
         /// <returns></returns>
         public static bool Insertar(Paquete p)
         {
-            PaqueteDAO.comando.CommandText = "INSERT INTO Paquetes values (@DireccionEntrega, @TrackingId, @Alumno)";
+            PaqueteDAO.comando.CommandText = "INSERT INTO Paquetes (direccionEntrega, trackingID, alumno) VALUES (@DireccionEntrega, @TrackingId, @Alumno)";
             PaqueteDAO.comando.Parameters.Add(new SqlParameter("DireccionEntrega", p.DireccionEntrega));
             PaqueteDAO.comando.Parameters.Add(new SqlParameter("TrackingId", p.TrackingID));
             PaqueteDAO.comando.Parameters.Add(new SqlParameter("Alumno", "Leonardo Blanco"));
 
-            PaqueteDAO.conexion.Open();
+            try
+            {
+                PaqueteDAO.conexion.Open();
 
-            PaqueteDAO.comando.ExecuteNonQuery();
+                PaqueteDAO.comando.ExecuteNonQuery();
 
-            PaqueteDAO.conexion.Close();
+                PaqueteDAO.conexion.Close();
+
+                PaqueteDAO.comando.Parameters.Clear();
+            }
+            catch(SqlException ex)
+            {
+                PaqueteDAO.EventoDatos.Invoke(ex.Message);
+            }
+            catch (Exception e)
+            {
+                PaqueteDAO.EventoDatos.Invoke(e.Message);
+            }
             if (PaqueteDAO.conexion.State == System.Data.ConnectionState.Closed)
             {
                 return true;
             }
             else
             {
-                throw new ArchivoExeption("La conexion no fue cerrada correctamente");
+                PaqueteDAO.EventoDatos.Invoke("La conexion no fue cerrada correctamente");
+                PaqueteDAO.conexion.Close();
+                return false;
             }
         }
 

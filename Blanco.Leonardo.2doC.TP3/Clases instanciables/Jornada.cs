@@ -89,10 +89,15 @@ namespace Instanciables
         public static bool Guardar(Jornada jornada)
         {
             Texto aux = new Texto();
-            //Al llamar a este metodo se guardara en C:\...\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug
+            
             try
             {
-                return aux.Guardar(AppDomain.CurrentDomain.BaseDirectory + "Prueba.txt", jornada.ToString());
+                ////Al llamar a este metodo se guardara en el escritorio
+                return aux.Guardar(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Jornada.txt", jornada.ToString());
+
+
+                //Al llamar a este metodo se guardara en C:\...\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug
+                //return aux.Guardar(AppDomain.CurrentDomain.BaseDirectory + "Jornada.txt", jornada.ToString());
             }
             catch (ArchivosException e)
             {
@@ -108,10 +113,15 @@ namespace Instanciables
         {
             Texto aux = new Texto();
             string ret = "";
-            //Al llamar a este metodo se leera en C:\...\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Prueba.txt
             try
             {
-                aux.Leer(AppDomain.CurrentDomain.BaseDirectory + "Prueba.txt", out ret);
+                //Al llamar a este metodo se leera en Desktop\Prueba.txt
+                aux.Leer(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "\\Jornada.txt", out ret);
+
+
+
+                //Al llamar a este metodo se leera en C:\...\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Jornada.txt
+                //aux.Leer(AppDomain.CurrentDomain.BaseDirectory + "Jornada.txt", out ret);
                 return ret;
             }
             catch (ArchivosException e)

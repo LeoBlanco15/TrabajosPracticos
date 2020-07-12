@@ -56,7 +56,7 @@
             this.lstEstadoIngresado.FormattingEnabled = true;
             this.lstEstadoIngresado.ItemHeight = 16;
             this.lstEstadoIngresado.Location = new System.Drawing.Point(17, 54);
-            this.lstEstadoIngresado.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lstEstadoIngresado.Margin = new System.Windows.Forms.Padding(4);
             this.lstEstadoIngresado.Name = "lstEstadoIngresado";
             this.lstEstadoIngresado.Size = new System.Drawing.Size(240, 276);
             this.lstEstadoIngresado.TabIndex = 0;
@@ -66,17 +66,18 @@
             this.lstEstadoEnViaje.FormattingEnabled = true;
             this.lstEstadoEnViaje.ItemHeight = 16;
             this.lstEstadoEnViaje.Location = new System.Drawing.Point(383, 54);
-            this.lstEstadoEnViaje.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lstEstadoEnViaje.Margin = new System.Windows.Forms.Padding(4);
             this.lstEstadoEnViaje.Name = "lstEstadoEnViaje";
             this.lstEstadoEnViaje.Size = new System.Drawing.Size(240, 276);
             this.lstEstadoEnViaje.TabIndex = 1;
             // 
             // lstEstadoEntregado
             // 
+            this.lstEstadoEntregado.ContextMenuStrip = this.mostrarToolStripMenuItem;
             this.lstEstadoEntregado.FormattingEnabled = true;
             this.lstEstadoEntregado.ItemHeight = 16;
             this.lstEstadoEntregado.Location = new System.Drawing.Point(752, 54);
-            this.lstEstadoEntregado.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.lstEstadoEntregado.Margin = new System.Windows.Forms.Padding(4);
             this.lstEstadoEntregado.Name = "lstEstadoEntregado";
             this.lstEstadoEntregado.Size = new System.Drawing.Size(240, 276);
             this.lstEstadoEntregado.TabIndex = 2;
@@ -85,7 +86,7 @@
             // 
             this.rtbMostrar.BackColor = System.Drawing.SystemColors.Control;
             this.rtbMostrar.Location = new System.Drawing.Point(16, 384);
-            this.rtbMostrar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.rtbMostrar.Margin = new System.Windows.Forms.Padding(4);
             this.rtbMostrar.Name = "rtbMostrar";
             this.rtbMostrar.ReadOnly = true;
             this.rtbMostrar.Size = new System.Drawing.Size(536, 154);
@@ -125,7 +126,8 @@
             // mtxtTrackingID
             // 
             this.mtxtTrackingID.Location = new System.Drawing.Point(9, 37);
-            this.mtxtTrackingID.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.mtxtTrackingID.Margin = new System.Windows.Forms.Padding(4);
+            this.mtxtTrackingID.Mask = "000-000-0000";
             this.mtxtTrackingID.Name = "mtxtTrackingID";
             this.mtxtTrackingID.Size = new System.Drawing.Size(268, 22);
             this.mtxtTrackingID.TabIndex = 7;
@@ -134,7 +136,7 @@
             // 
             this.btnAgregar.FlatStyle = System.Windows.Forms.FlatStyle.System;
             this.btnAgregar.Location = new System.Drawing.Point(313, 22);
-            this.btnAgregar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnAgregar.Margin = new System.Windows.Forms.Padding(4);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(120, 52);
             this.btnAgregar.TabIndex = 9;
@@ -145,7 +147,7 @@
             // btnMostrarTodos
             // 
             this.btnMostrarTodos.Location = new System.Drawing.Point(313, 86);
-            this.btnMostrarTodos.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnMostrarTodos.Margin = new System.Windows.Forms.Padding(4);
             this.btnMostrarTodos.Name = "btnMostrarTodos";
             this.btnMostrarTodos.Size = new System.Drawing.Size(120, 52);
             this.btnMostrarTodos.TabIndex = 10;
@@ -182,9 +184,9 @@
             this.gpEstadoPaquetes.Controls.Add(this.lstEstadoIngresado);
             this.gpEstadoPaquetes.Controls.Add(this.lstEstadoEntregado);
             this.gpEstadoPaquetes.Location = new System.Drawing.Point(16, 15);
-            this.gpEstadoPaquetes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gpEstadoPaquetes.Margin = new System.Windows.Forms.Padding(4);
             this.gpEstadoPaquetes.Name = "gpEstadoPaquetes";
-            this.gpEstadoPaquetes.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gpEstadoPaquetes.Padding = new System.Windows.Forms.Padding(4);
             this.gpEstadoPaquetes.Size = new System.Drawing.Size(1016, 346);
             this.gpEstadoPaquetes.TabIndex = 15;
             this.gpEstadoPaquetes.TabStop = false;
@@ -199,9 +201,9 @@
             this.gpPaquetes.Controls.Add(this.btnAgregar);
             this.gpPaquetes.Controls.Add(this.mtxtTrackingID);
             this.gpPaquetes.Location = new System.Drawing.Point(577, 384);
-            this.gpPaquetes.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gpPaquetes.Margin = new System.Windows.Forms.Padding(4);
             this.gpPaquetes.Name = "gpPaquetes";
-            this.gpPaquetes.Padding = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.gpPaquetes.Padding = new System.Windows.Forms.Padding(4);
             this.gpPaquetes.Size = new System.Drawing.Size(455, 155);
             this.gpPaquetes.TabIndex = 16;
             this.gpPaquetes.TabStop = false;
@@ -210,7 +212,7 @@
             // txtDireccion
             // 
             this.txtDireccion.Location = new System.Drawing.Point(9, 101);
-            this.txtDireccion.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txtDireccion.Margin = new System.Windows.Forms.Padding(4);
             this.txtDireccion.Name = "txtDireccion";
             this.txtDireccion.Size = new System.Drawing.Size(268, 22);
             this.txtDireccion.TabIndex = 15;
@@ -240,7 +242,7 @@
             this.Controls.Add(this.gpPaquetes);
             this.Controls.Add(this.gpEstadoPaquetes);
             this.Controls.Add(this.rtbMostrar);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "MainCorreo";

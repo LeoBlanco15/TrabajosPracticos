@@ -23,3 +23,15 @@ C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\MainCor
 C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
 C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.exe
 C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\bin\Debug\MainCorreo.exe.config
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\bin\Debug\MainCorreo.exe
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\bin\Debug\MainCorreo.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\bin\Debug\Instanciables.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\bin\Debug\Instanciables.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.MainCorreo.resources
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.Properties.Resources.resources
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.GenerateResource.cache
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.csproj.CopyComplete
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.exe
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\MainCorreo\obj\Debug\MainCorreo.pdb

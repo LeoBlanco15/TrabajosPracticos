@@ -18,9 +18,23 @@ namespace Archivos
         /// <returns></returns>
         public bool Guardar(string archivo, string datos)
         {
-            using (StreamWriter writer = new StreamWriter(archivo))
+            try
             {
-                writer.Write(datos);
+                using (StreamWriter writer = new StreamWriter(archivo))
+                {
+                    try
+                    {
+                        writer.Write(datos);
+                    }
+                    catch (Exception)
+                    {
+                        throw new ArchivosException();
+                    }
+                }
+            }
+            catch (Exception)
+            {
+                throw new ArchivosException();
             }
             if (File.Exists(archivo))
             {
@@ -31,11 +45,31 @@ namespace Archivos
                 throw new ArchivosException();
             }
         }
+        /// <summary>
+        /// Lee de un archivo y lo pone en un string
+        /// </summary>
+        /// <param name="archivo"></param>
+        /// <param name="datos"></param>
+        /// <returns></returns>
         public bool Leer(string archivo, out string datos)
         {
-            using (StreamReader reader = new StreamReader(archivo))
+            try
             {
-                datos = reader.ReadToEnd();
+                using (StreamReader reader = new StreamReader(archivo))
+                {
+                    try
+                    {
+                        datos = reader.ReadToEnd();
+                    }
+                    catch (Exception)
+                    {
+                        throw new ArchivosException();
+                    }
+                }
+            }
+            catch (Exception)
+            {
+                throw new ArchivosException();
             }
             if (File.Exists(archivo))
             {
