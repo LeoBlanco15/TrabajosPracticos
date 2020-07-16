@@ -1,0 +1,30 @@
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe.config
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Archivos.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Clases instanciables.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\ClassLibrary1.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Exepciones.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Archivos.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Clases instanciables.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csprojAssemblyReference.cache
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CopyComplete
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.exe
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe.config
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.exe
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\SalidaPorPantalla.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Archivos.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Clases instanciables.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\ClassLibrary1.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Exepciones.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Archivos.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Clases instanciables.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.csproj.CopyComplete
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.exe
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\SalidaPorPantalla\obj\Debug\SalidaPorPantalla.pdb

@@ -1,0 +1,16 @@
+D:\Archivos de programa\Leo Trabajo\C#\Blanco.Leonardo.2doC.TP4\Instanciables\bin\Debug\Instanciables.dll
+D:\Archivos de programa\Leo Trabajo\C#\Blanco.Leonardo.2doC.TP4\Instanciables\bin\Debug\Instanciables.pdb
+D:\Archivos de programa\Leo Trabajo\C#\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Archivos de programa\Leo Trabajo\C#\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Archivos de programa\Leo Trabajo\C#\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Instanciables.dll
+D:\Archivos de programa\Leo Trabajo\C#\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Instanciables.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\Instanciables\bin\Debug\Instanciables.dll
+C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\Instanciables\bin\Debug\Instanciables.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Instanciables.dll
+C:\Users\Sophie\Desktop\Leo trabajo\facu\TP4Leo\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Instanciables.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\Instanciables\bin\Debug\Instanciables.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\Instanciables\bin\Debug\Instanciables.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Instanciables.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP4\Instanciables\obj\Debug\Instanciables.pdb

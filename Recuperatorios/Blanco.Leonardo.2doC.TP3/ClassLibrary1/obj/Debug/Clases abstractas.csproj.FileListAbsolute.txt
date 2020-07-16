@@ -1,0 +1,16 @@
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\bin\Debug\Exepciones.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\obj\Debug\Clases abstractas.csprojAssemblyReference.cache
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\obj\Debug\Clases abstractas.csproj.CopyComplete
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\bin\Debug\Exepciones.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\obj\Debug\Clases abstractas.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\obj\Debug\Clases abstractas.csproj.CopyComplete
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

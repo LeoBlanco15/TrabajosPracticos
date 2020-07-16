@@ -1,0 +1,10 @@
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Exepciones\obj\Debug\Exepciones.csprojAssemblyReference.cache
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\Sophie\source\repos\Blanco.Leonardo.2doC.TP3\Exepciones\obj\Debug\Exepciones.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Exepciones\bin\Debug\Exepciones.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Exepciones\bin\Debug\Exepciones.pdb
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Exepciones\obj\Debug\Exepciones.csprojAssemblyReference.cache
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Exepciones\obj\Debug\Exepciones.dll
+C:\Users\Sophie\Desktop\Leo trabajo\Trabajos practicos\Blanco.Leonardo.2doC.TP3\Exepciones\obj\Debug\Exepciones.pdb
